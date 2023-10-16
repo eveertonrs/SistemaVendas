@@ -1,0 +1,13 @@
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\bin\Release\Vendas.exe.config
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\bin\Release\Vendas.exe
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\bin\Release\Vendas.pdb
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\bin\Release\Vendas.xml
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Release\Vendas.Clientes.resources
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Release\Vendas.funcionarios.resources
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Release\Vendas.Inicio.resources
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Release\Vendas.Resources.resources
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Release\Vendas.RegistrarVendas.resources
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Release\Vendas.vbproj.GenerateResource.Cache
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Release\Vendas.exe
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Release\Vendas.xml
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Release\Vendas.pdb

@@ -1,0 +1,22 @@
+C:\Users\evert\AppData\Local\Temporary Projects\Vendas\bin\Debug\Vendas.exe
+C:\Users\evert\AppData\Local\Temporary Projects\Vendas\bin\Debug\Vendas.pdb
+C:\Users\evert\AppData\Local\Temporary Projects\Vendas\bin\Debug\Vendas.xml
+C:\Users\evert\AppData\Local\Temporary Projects\Vendas\obj\x86\Debug\Vendas.Form1.resources
+C:\Users\evert\AppData\Local\Temporary Projects\Vendas\obj\x86\Debug\Vendas.Resources.resources
+C:\Users\evert\AppData\Local\Temporary Projects\Vendas\obj\x86\Debug\Vendas.vbproj.GenerateResource.Cache
+C:\Users\evert\AppData\Local\Temporary Projects\Vendas\obj\x86\Debug\Vendas.exe
+C:\Users\evert\AppData\Local\Temporary Projects\Vendas\obj\x86\Debug\Vendas.xml
+C:\Users\evert\AppData\Local\Temporary Projects\Vendas\obj\x86\Debug\Vendas.pdb
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\bin\Debug\Vendas.exe.config
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Debug\Vendas.exe
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Debug\Vendas.xml
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Debug\Vendas.pdb
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\bin\Debug\Vendas.exe
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\bin\Debug\Vendas.pdb
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\bin\Debug\Vendas.xml
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Debug\Vendas.Resources.resources
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Debug\Vendas.vbproj.GenerateResource.Cache
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Debug\Vendas.funcionarios.resources
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Debug\Vendas.Clientes.resources
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Debug\Vendas.RegistrarVendas.resources
+C:\Users\evert\onedrive\documentos\visual studio 2010\Projects\Vendas\Vendas\obj\x86\Debug\Vendas.Inicio.resources
